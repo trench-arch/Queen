@@ -1,4 +1,4 @@
-# 🎉 QUEEN RIAS X - ULTIMATE WHATSAPP BOT 🎉
+# 🎉 trizzy archX - ULTIMATE WHATSAPP BOT 🎉
 
 <p align="center">
   <img src="https://files.catbox.moe/68moyh.jpeg" width="300" alt="QUEEN RIAS V3 Logo" style="border-radius:50%;box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
