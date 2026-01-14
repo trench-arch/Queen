@@ -89,32 +89,17 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ---
 
 ## ⚠️ **Warning**
-- **QUEEN RIAS V3** is not affiliated with WhatsApp Inc. Misuse of the bot may result in a ban from WhatsApp.
+- **Trench_Arch** is not affiliated with WhatsApp Inc. Misuse of the bot may result in a ban from WhatsApp.
 - Use this bot at your own risk. The developer is not responsible for any issues arising from its use.
 
 ---
 
 ## 💬 **Contact Developer**
-- **Telegram**: [@Toxxicn_bot](https://t.me/Toxxicn_bot)
-- **WhatsApp Channel**: [Join Here](https://whatsapp.com/channel/0029Vb659rN5q08fFoXNQx3w)
-
----
-
-## 🙏 **Credits**
-- **Toxxic Boy**: For creating and maintaining the bot
-- **My Bot Users**: For Keeping the Project Alive
----
-
-## 📊 **Repo Stats**
-![Visitor Count](https://profile-counter.glitch.me/Riasgv3/count.svg)
-
----
-
-Enjoy using **QUEEN RIAS V3**! If you have any questions or need assistance, feel free to reach out. 🚀
-
+trench _bot)
+- **
 <div align="center" style="margin-top: 40px;">
-  <p>Made with ❤️ by <a href="https://github.com/Toxic1239" style="color: #ff69b4; text-decoration: none;">Toxxic Boy</a></p>
-  <img src="https://komarev.com/ghpvc/?username=Toxic1239&label=Profile%20views&color=ff69b4&style=flat" alt="profile views" />
+  <p>Made with ❤️ by <a href="https://github.com/trench-arch" style="color: #ff69b4; text-decoration: none;">Trench kud</a></p>
+  <img src="https://komarev.com/ghpvc/?username=Trench kid&label=Profile%20views&color=ff69b4&style=flat" alt="profile views" />
 </div>
 
 <!-- Animated divider -->
