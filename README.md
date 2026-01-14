@@ -1,56 +1,7 @@
 # 🎉 trizzy archX - ULTIMATE WHATSAPP BOT 🎉
 
 <p align="center">
-  <img src="https://files.catbox.moe/68moyh.jpeg" width="300" alt="QUEEN RIAS V3 Logo" style="border-radius:50%;box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
-</p>
-
-<h1 align="center">
-  <span style="color: #ff69b4;">🌟 THE MOST POWERFUL MD WHATSAPP BOT 🌟</span>
-</h1>
-
-<div align="center" style="margin: 20px 0;">
-
-[![GitHub Stars](https://img.shields.io/github/stars/Toxic1239/Queen-RiasV3_?style=for-the-badge&color=gold&logo=starship)](https://github.com/Toxic1239/Queen-RiasV3_/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Toxic1239/Queen-RiasV3_?style=for-the-badge&color=green&logo=git)](https://github.com/Toxic1239/Queen-RiasV3_/network/members)
-[![Version](https://img.shields.io/badge/Version-3.0-blue?style=for-the-badge&logo=awesome-releases)](https://github.com/Toxic1239/Queen-RiasV3_/releases)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp%20Channel-Join%20Now-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb659rN5q08fFoXNQx3w)
-
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&height=50&lines=THE+MOST+ADVANCED+MULTI-DEVICE+WHATSAPP+BOT;PACKED+WITH+200%2B+AMAZING+FEATURES;EASY+TO+DEPLOY+AND+USE;CREATED+BY+TOXXIC+BOY" alt="Typing SVG" />
-</div>
-
----
----
-
-## 📝 **Introduction**
-**QUEEN RIAS V3** is a multi-device WhatsApp bot designed to enhance your WhatsApp experience with a wide range of features. Whether you're looking for entertainment, utility, or automation, QUEEN RIAS V3 has got you covered. Created by **Toxxic Boy**, this bot is packed with powerful functionalities and is easy to deploy.
-
----
-
-## 🚀 **Features**
-- **Multi-Device Support**: Works seamlessly across multiple devices.
-- **Easy Deployment**: Deploy on various platforms like Railway, Render, Replit, and more.
-- **Customizable**: Add your own features or modify existing ones.
-
----
-
-## 🛠️ **Setup Instructions**
-
-### **Prerequisites**
-1. **GitHub Account**: Fork this repository to your GitHub account.
-2. **Session ID**: Generate a session ID from [here](https://toxxic-session3.onrender.com).
-3. **Node.js**: Ensure Node.js is installed on your system.
-
----
-
-### **Step 1: Fork the Repository**
-Click the button below to fork the repository:
-<br>
-<a href="https://github.com/Toxic1239/Queen-RiasV3_/fork">
-  <img src="https://img.shields.io/badge/-Fork-blue?style=for-the-badge&logo=github&logoColor=white" alt="Fork">
-</a>
+  <img src="https://files.catbox.moe/68moyh.jpeg" width="300" alt="Trizzy_AI Supreme 🙇Logo" style="border-
 
 ---
 
@@ -58,7 +9,7 @@ Click the button below to fork the repository:
 Generate your session ID from the link below:
 <br>
 <a href="https://miku-session.onrender.com">
-  <img src="https://img.shields.io/badge/Get_Session_ID-blue?style=for-the-badge&logo=opencv&logoColor=white" alt="Get Session ID">
+  <img src="https://img.shields.io/badge/Get_Session_ID-red?style=for-the-badge&logo=opencv&logoColor=white" alt="Get Session ID">
 </a>
 
 ---
